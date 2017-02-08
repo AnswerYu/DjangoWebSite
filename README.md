@@ -21,5 +21,5 @@ git reflog
 git checkout
 ##git origin
 git remote add origin git@github.com:yourName/repositoryName.git
-git push origin master
+git push origin master  
 
